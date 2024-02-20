@@ -1,0 +1,54 @@
+#main-container {
+    width: 18em;
+}
+
+button {
+	color: black;
+    width: 2em;
+    height: 2em;
+    font-size: 48px;
+    text-align: center;
+}
+
+#buttonnum0 {
+    width: 100%;
+}
+
+#buttonequal {
+    height: 4.172em;
+}
+
+table {
+    border: 5px solid #6DACD5;
+    margin: 1em;
+    padding: 0.6em;
+}
+
+td {
+    width: auto;
+	padding: 0.2em;
+}
+
+#input-things {
+	
+}
+
+input {
+    margin: 0;
+    font-size: 46px;
+    text-align: right;
+    pointer-events: none;
+    color: #AAA9A9;
+    font-family: Calibri, sans-serif;
+	width: 100%;
+}
+
+#gray-input {
+    position: absolute;
+    width: 11.1em;
+    height: 1.35em;
+    font-size: 46px;
+    text-align: right;
+    pointer-events: none;
+    font-family: Calibri, sans-serif;
+}
